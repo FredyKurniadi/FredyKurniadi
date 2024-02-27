@@ -1,16 +1,21 @@
-### Hi there 👋
+## Perkenalan singkat tentang diri Anda
+Selamat datang di profil saya
+Nama saya Fredy Kurniadi
+Saya berkuliah di Politeknik Negeri Bandung
+Saya kuliah jurusan Informatika dengan program studi Sarjana Terapan Teknik Komputer dan Informatika
 
-<!--
-**FredyKurniadi/FredyKurniadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Teknologi yang Anda kuasai
+1. Python
+2. Pandas
+3. Opencv
+4. Statistika
+5. C
+6. C++
+7. Java
 
-Here are some ideas to get you started:
+## Proyek yang Anda kerjakan
+Proyek 1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cara menghubungi Anda
+email: fredy.kurniadi.tif423@polban.ac.id
+wa: 6281779073997
